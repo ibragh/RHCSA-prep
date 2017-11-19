@@ -1,0 +1,19 @@
+- set timer on questions page...
+- head 11 tail 6 from /tmp/finalquizfiles/letters.txt
+- add four users ahmed sami khaled mohammed.
+- primary group for ahmed & mohammed is sales group GID 3100
+- primary group for sami & khaled to hr group GID 3200
+- all users have shared group called company
+- default system setting for newly created users to change password at least every 50 days.
+- force all users to change password in first login
+- create shared directory under "/home/" called "shares" and three files under it {file 1,file2,file3} make the default group "comapny" for all dirs/files under it.
+- the files created under shared can only be deleted by the owner.
+- user mohammed has only read permission on dir shares and all files under it.
+- Determine the process using the most CPU resiurces on desktopX and terminite it # after SSH
+- disable ssh login for root user and password-based ssh authintaication on serverX.
+- user remoteuser on desktop can login to server withoutpassword
+ - configure rsyslog
+- create one network add to hosts
+- cerate archive of ehatever.
+- grep from file
+- 
